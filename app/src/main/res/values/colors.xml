@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Material 3 Indigo/Slate Palette - Professional & Sharp -->
+    <color name="primary">#4F46E5</color> <!-- Indigo 600 -->
+    <color name="onPrimary">#FFFFFF</color>
+    <color name="primaryContainer">#EEF2FF</color>
+    <color name="onPrimaryContainer">#312E81</color>
+
+    <color name="secondary">#0EA5E9</color> <!-- Sky 500 -->
+    <color name="onSecondary">#FFFFFF</color>
+    <color name="secondaryContainer">#F0F9FF</color>
+    <color name="onSecondaryContainer">#0C4A6E</color>
+
+    <color name="tertiary">#D946EF</color> <!-- Fuchsia 500 -->
+    <color name="onTertiary">#FFFFFF</color>
+    <color name="tertiaryContainer">#FDF4FF</color>
+    <color name="onTertiaryContainer">#701A75</color>
+
+    <color name="background">#F8FAFC</color> <!-- Slate 50 -->
+    <color name="onBackground">#0F172A</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="onSurface">#1E293B</color>
+    <color name="surfaceVariant">#F1F5F9</color>
+    <color name="onSurfaceVariant">#475569</color>
+    <color name="outline">#CBD5E1</color>
+
+    <!-- Semantic State Colors -->
+    <color name="success">#10B981</color>
+    <color name="error">#EF4444</color>
+    <color name="warning">#F59E0B</color>
+    <color name="info">#3B82F6</color>
+
+    <!-- Category Visual Accents -->
+    <color name="cat_mastery">#4F46E5</color>
+    <color name="cat_professional">#0EA5E9</color>
+    <color name="cat_academic">#D946EF</color>
+    <color name="cat_phrases">#F59E0B</color>
+    <color name="cat_basics">#10B981</color>
+    <color name="cat_psychology">#6366F1</color>
+    <color name="cat_philosophy">#8B5CF6</color>
+    <color name="cat_idioms">#FF9800</color>
+
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="text_gray">#64748B</color>
+</resources>

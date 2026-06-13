@@ -1,0 +1,79 @@
+<resources>
+    <string name="app_name">LanguageLearning</string>
+    <string name="title_home">Dashboard</string>
+    <string name="title_lessons">Curriculum</string>
+    <string name="title_dictionary">Lexicon</string>
+    <string name="title_progress">Analytics</string>
+    <string name="title_profile">Settings</string>
+
+    <string name="welcome">Welcome!</string>
+    <string name="daily_summary">Performance Summary</string>
+    <string name="overall_goal_completed">%1$d%% of curriculum completed</string>
+    <string name="categories">Learning Tracks</string>
+
+    <string name="daily_lessons">Daily Modules</string>
+    <string name="suggested_for_today">Recommended for You</string>
+    <string name="lessons_desc">Focused daily practice to accelerate fluency</string>
+    <string name="all_vocabulary">Complete Database</string>
+    <string name="all_vocab_desc">Explore all available linguistic terms</string>
+
+    <string name="overall_progress">Mastery Progress</string>
+    <string name="completed">Proficiency</string>
+    <string name="completed_percent_format">%1$d%%</string>
+    <string name="words_learned_format">%1$d of %2$d terms mastered</string>
+    <string name="words_progress_format">%1$d/%2$d</string>
+    <string name="day_streak">Learning Streak</string>
+    <string name="xp_gained">Total Experience (XP)</string>
+
+    <string name="dark_mode">Dark Interface</string>
+    <string name="account_settings">Account Settings</string>
+    <string name="help_support">Help &#38; Support</string>
+    <string name="logout">Sign Out</string>
+
+    <string name="quiz_title">Quiz</string>
+    <string name="quiz_question_prefix">Translate to Target Language:</string>
+    <string name="quiz_hint">Type translation&#8230;</string>
+    <string name="check_answer">Validate</string>
+    <string name="skip_next">Next Challenge</string>
+    <string name="quiz_completed">Assessment Complete!</string>
+    <string name="correct_feedback">Exemplary!</string>
+    <string name="wrong_feedback">Incorrect. Review and repeat.</string>
+    <string name="quiz_score_format">Final Score: %1$d/%2$d</string>
+    <string name="not_enough_words">Add more terms to generate an assessment.</string>
+
+    <string name="learned_status">Mastered</string>
+    <string name="learned_status_desc">Learned Status</string>
+    <string name="start_quiz">Begin Assessment</string>
+    <string name="statistics">Detailed Analytics</string>
+    <string name="flashcards">Active Recall Cards</string>
+    <string name="show_translation">Reveal Meaning</string>
+    <string name="mark_as_learned">Mark as Mastered</string>
+    <string name="listen_pronunciation">Audio Reference</string>
+    <string name="previous">Previous</string>
+    <string name="next">Next</string>
+
+    <string name="category_count_format">%1$d Terms</string>
+    <string name="word_label">Term</string>
+    <string name="meaning_label">Definition</string>
+    <string name="guest_learner">Premium Learner</string>
+    <string name="pro_level">Advanced Proficiency</string>
+
+    <string name="daily_progress_title">Daily Objective</string>
+    <string name="goal_reached">Daily Milestone Achieved!</string>
+    <string name="goal_remaining_format">Master %1$d more terms to hit your goal</string>
+    <string name="next_question">Continue</string>
+    <string name="finish_quiz">Complete Session</string>
+    <string name="skip">Skip</string>
+
+    <string name="search_hint">Search Lexicon&#8230;</string>
+    <string name="no_results">No results matching your query</string>
+    <string name="results_found">%1$d results identified</string>
+    <string name="lesson_of_the_day">Concept of the Day</string>
+    <string name="start_lesson">Launch Module</string>
+    <string name="daily_lesson_format">%1$s ➔ %2$s</string>
+    <string name="all_caught_up">Daily objective finalized!</string>
+    <string name="select_translation">Identify the correct equivalent</string>
+
+    <string name="daily_progress">Daily Progress</string>
+    <string name="goal_remaining_text">Keep going!</string>
+</resources>
